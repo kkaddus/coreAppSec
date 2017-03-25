@@ -1,3 +1,17 @@
+coreAppSec get started!
+- spring security first project
+- spec
+  spring mvc 
+  spring security 3.0
+  orm - mybatis / oracle 연동
+  
+  참조 Reference
+  스프링 3.0 예제 소스
+  https://github.com/TerryChang/spring_security_blog_sample
+  http://okky.kr/article/260408
+
+
+
 # coreAppSec
 spring security 를 이용한 Project
 spring_security_blog_sample
@@ -31,3 +45,5 @@ table.sql은 테이블과 primary key 생성 쿼리가, data.sql은 생성된 �
 Oracle 쿼리이기 때문에 다른 DBMS를 사용할 경우 수정해야 할 수도 있음을 알린다
 
 7. 처음 초기 화면은 http://localhost:8080/main.do 이다.
+
+
